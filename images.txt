@@ -1,7 +1,7 @@
-nginx
+#nginx #这是作者的，不需要就可以注释掉
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0 #这是作者的，不需要就可以注释掉
+#xhofe/alist:latest #这是作者的，不需要就可以注释掉
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 whyour/qinglong:2.11.3
