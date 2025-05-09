@@ -8,3 +8,4 @@
 --platform=linux/arm64 mzzsfy/auto-proxy-pool:latest
 --platform=linux/arm64 nolanhzy/pro:latest
 nolanhzy/pro:latest
+
